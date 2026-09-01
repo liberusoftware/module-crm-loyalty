@@ -1,0 +1,5 @@
+{"name":"liberusoftware/module-crm-loyalty","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Loyalty\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Loyalty\\LoyaltyServiceProvider"]},"liberu":{"name":"crm-loyalty"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
